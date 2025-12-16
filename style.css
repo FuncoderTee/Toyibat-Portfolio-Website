@@ -109,6 +109,8 @@ p span{
     font-weight: 600;
     color: #F7F6F7;
 }
+p span{color: #F6F3EE;
+}
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
